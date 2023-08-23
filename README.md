@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://github.com/joshua-sinogaya/)
 <h1 align="center">Hi 👋, I'm Josh Sinogaya</h1>
-<h3 align="center">Aspiring frontend dev</h3>
+<h3 align="center">💻 Web Development 💻</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/72f11b0a4f464d653b9883d7906c51e339c3412093a8ba8906ee1149ac705677/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-sinogaya&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-sinogaya" /> </p>
