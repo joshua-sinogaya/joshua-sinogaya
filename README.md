@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-sinogaya&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-sinogaya" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node**
 
 - 📫 How to reach me **josh.sinogaya@gmail.com**
 
